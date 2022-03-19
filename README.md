@@ -1,2 +1,2 @@
-# cli
+# @cogears/cli
 cogears cli tool
