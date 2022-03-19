@@ -3,10 +3,12 @@
   "version": "1.0.0",
   "description": "cogears cli tool",
   "main": "src/index.js",
+  "files": [
+    "src/**"
+  ],
   "bin": {
     "cogears": "src/index.js"
   },
-  "scripts": {},
   "dependencies": {
     "@cogears/http-client": "^1.1.2",
     "commander": "^9.1.0",
