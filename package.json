@@ -8,7 +8,9 @@
   },
   "scripts": {},
   "dependencies": {
-    "commander": "^9.1.0"
+    "@cogears/http-client": "^1.1.2",
+    "commander": "^9.1.0",
+    "decompress": "^4.2.1"
   },
   "repository": {
     "type": "git",
